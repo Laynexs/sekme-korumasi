@@ -1,0 +1,1 @@
+# sekme-korumasi
