@@ -1,0 +1,23 @@
+{
+    "name": "samet-welcome",
+    "version": "0.0.1",
+    "description": "Samet Welcome Bot",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "author": "Unkown",
+    "license": "ISC",
+    "dependencies": {
+        "discord-ytdl-core": "^5.0.4",
+        "discord.js": "^12.3.1",
+        "ffmpeg-static": "^4.4.1",
+        "mongoose": "^6.1.5",
+        "opusscript": "^0.0.8",
+        "ytdl-core": "^4.9.2"
+    },
+    "engines": {
+        "node": "10.16.0"
+    },
+    "keywords": []
+}

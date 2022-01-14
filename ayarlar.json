@@ -1,0 +1,12 @@
+{
+  "token": "SÜPER_GİZLİ_TOKENİNİ",
+  "guildID": "GUİLD_ID",
+  "developers": ["GÜVENLİ LİSTEDEKİLERİN İDSİ"],
+  "log": "LOG KANALININ İDSİ",
+  "otherRoles": ["banlama rolü","kickleme rolü","transport rolü"],
+  "mongodbURI": "MONGODB URL",
+  "webhook": {
+    "id": "WEBHOOK_İD",
+    "token": "WEBHOOK_TOKEN"
+  }
+}
